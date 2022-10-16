@@ -1,3 +1,27 @@
+<!-- About me -->
+<h2>About Me:</h2>
+<img width="50%" align="right" alt="Github" src="https://github.com/KunalUpadhyay02/KunalUpadhyay02/blob/main/img.jpg" />
+<li>
+<b>Name:</b> Kunal Upadhyay</li>
+<li>
+<b>Nationality:</b> Indian 
+</li>
+<li>
+<b>Gender:</b> he/him/Male
+</li>
+<li>
+<b>Hobbies:</b> Programming, Playing Basketball.
+</li>
+<li>
+<b>“In C we had to code our own bugs. In C++ we can inherit them.”
+</li>
+<br>
+<br>
+<br>
+<br>
+<br>
+<!-- About end -->
+
 
 
 <!-- Social media links -->
