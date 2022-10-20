@@ -1,3 +1,6 @@
+<p>
+    <img width="140" src="https://visitcount.itsvg.in/api?id=KunalUpadhyay02&icon=1&color=0">
+</p>
 <!-- About me -->
 <h2>About Me:</h2>
 <img width="65%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -30,11 +33,11 @@
   <br><br>
   <p align="center">
   <!-- <a href=""><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a> -->
-  <a href="https://www.instagram.com/kunal_upadhyay02"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/kunal-upadhyay02/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/kunal2upadhyay"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCS89htOK4fwY9dJmeB0mZ4w"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
-  <a href="https://github.com/KunalUpadhyay02"><img src="https://img.shields.io/github/followers/KunalUpadhyay02?label=follow&style=social"></a>
+  <a href="https://www.instagram.com/kunal_upadhyay02"><img width="125" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kunal-upadhyay02/"><img width="110" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/kunal2upadhyay"><img width="99" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCS89htOK4fwY9dJmeB0mZ4w"><img width="112" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
+  <a href="https://github.com/KunalUpadhyay02"><img width="130" src="https://img.shields.io/github/followers/KunalUpadhyay02?label=follow&style=social"></a>
   </p>
   
   
@@ -113,11 +116,11 @@
   <h3 align="center">📊 GITHUB STATS</h3>
  <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=KunalUpadhyay02&theme=highcontrast&hide_border=false" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=KunalUpadhyay02&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=KunalUpadhyay02&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" /> 
-        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalUpadhyay02&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=KunalUpadhyay02&theme=gruvbox&hide_border=false" /> 
+        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalUpadhyay02&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </p>
 <p align="center">
     <img width="800" src="https://activity-graph.herokuapp.com/graph?username=KunalUpadhyay02&theme=react-dark">
@@ -125,8 +128,6 @@
 
 </details>
 <hr/>
-
-
 <!-- Stats ends -->
  
 
