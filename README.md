@@ -1,6 +1,6 @@
 <!-- About me -->
 <h2>About Me:</h2>
-<img width="50%" align="right" alt="Github" src="https://github.com/KunalUpadhyay02/KunalUpadhyay02/blob/main/img.jpg" />
+<img width="65%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <li>
 <b>Name:</b> Kunal Upadhyay</li>
 <li>
