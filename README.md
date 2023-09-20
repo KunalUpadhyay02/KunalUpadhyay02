@@ -1,5 +1,5 @@
 <p>
-    <img width="140" src="https://visitcount.itsvg.in/api?id=KunalUpadhyay02&icon=2&color=6)](https://visitcount.itsvg.in">
+    <img width="140" src="https://visitcount.itsvg.in/api?id=KunalUpadhyay02&icon=1&color=6">
 </p>
 <!-- About me -->
 <h2>About Me:</h2>
@@ -138,7 +138,7 @@
 <!--         <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalUpadhyay02&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </p> -->
 <p align="center">
-    <img width="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalUpadhyay02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalUpadhyay02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 </details>
@@ -149,6 +149,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 
 
