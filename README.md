@@ -133,12 +133,12 @@
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=KunalUpadhyay02&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=KunalUpadhyay02&theme=radical&hide_border=false" />
+        <img class="m-2 select-none pointer-events-none" draggable="false" id="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KunalUpadhyay02&amp;theme=radical&amp;hide_border=false" alt="">
     </p>
 <!--         <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalUpadhyay02&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </p> -->
 <p align="center">
-    <img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalUpadhyay02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img width="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalUpadhyay02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 </details>
@@ -149,7 +149,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 
 
