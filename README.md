@@ -1,6 +1,4 @@
-<p>
-    <img width="140" src="https://visitcount.itsvg.in/api?id=KunalUpadhyay02&icon=1&color=6">
-</p>
+
 <!-- About me -->
 <h2>About Me:</h2>
 <img width="65%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
