@@ -5,13 +5,7 @@
 <li>
 <b>Name:</b> Kunal Upadhyay</li>
 <li>
-<b>Nationality:</b> Indian 
-</li>
-<li>
 <b>Gender:</b> he/him/Male
-</li>
-<li>
-<b>Hobbies:</b> Programming, Playing Basketball.
 </li>
 <li>
 <b>“In C we had to code our own bugs. In C++ we can inherit them.”
